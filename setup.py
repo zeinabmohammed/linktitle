@@ -22,6 +22,4 @@ setup(
 	zip_safe=False,
 	include_package_data=True,
 	install_requires=install_requires,
-	zip_safe=False,
-	include_package_data=True,
 )
